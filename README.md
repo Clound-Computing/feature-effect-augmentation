@@ -25,6 +25,9 @@ pip install -r requirements.txt
 由于原数据集过大，github无法直接上传（限制25MB），因此需要手动下载数据集，并放在data文件夹下。
 
 [Civil Comments](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
+
+[SST-2](https://nlp.stanford.edu/sentiment/index.html)
+
 [IMDB](https://ai.stanford.edu/~amaas/data/sentiment)
 
 运行代码
